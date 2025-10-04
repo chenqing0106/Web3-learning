@@ -1,0 +1,16 @@
+# 忽略插件本身的安装文件
+.obsidian/plugins/
+# 但 不忽略 插件的配置文件和清单
+!.obsidian/plugins/**/
+!.obsidian/plugins/*.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
+
+# 忽略已安装的主题CSS文件
+.obsidian/themes/*/
+# 但 不忽略 主题的配置文件
+!.obsidian/themes/*.json
+.obsidian/appearance.json
+.obsidian/core-plugins-migration.json
+.obsidian/graph.json
+.obsidian/app.json
