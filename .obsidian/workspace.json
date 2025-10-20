@@ -4,90 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e6701d450c88194d",
+        "id": "f0d69b0e3d7fac92",
         "type": "tabs",
-        "dimension": 64.60176991150442,
+        "dimension": 70.41420118343196,
         "children": [
           {
-            "id": "dc66f54d79dd31fd",
+            "id": "e42da3aa3d156a5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "理论学习/devpill-学习.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "devpill-学习"
-            },
-            "group": "9fbf8ad089a33f3f"
-          },
-          {
-            "id": "2f3fa2b2fa254269",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "理论学习/MIT/ch03区块链基础与密码学.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ch03区块链基础与密码学"
-            }
-          },
-          {
-            "id": "6aacdcfbd0f9884f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "理论学习/MIT/git上传.md",
+                "file": "git上传.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "git上传"
-            }
-          },
-          {
-            "id": "6b26173363c0f777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "资源/github web3资源.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "github web3资源"
-            }
+            },
+            "group": "87ffdb4b9efda740"
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "0a84d351f9f7f60e",
+        "id": "7fe966002496a1e8",
         "type": "tabs",
-        "dimension": 35.39823008849557,
+        "dimension": 29.585798816568047,
         "children": [
           {
-            "id": "cea6690e7980f010",
+            "id": "8efa55274da2c4a3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "理论学习/devpill-学习.md",
+                "file": "git上传.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "devpill-学习 的大纲"
+              "title": "git上传 的大纲"
             },
-            "group": "9fbf8ad089a33f3f"
+            "group": "87ffdb4b9efda740"
           }
         ]
       }
@@ -237,39 +194,52 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "6aacdcfbd0f9884f",
+  "active": "e42da3aa3d156a5c",
   "lastOpenFiles": [
-    "理论学习/MIT/ch03区块链基础与密码学.md",
-    "理论学习/MIT/git上传.md",
-    "理论学习/MIT/ch01.md",
-    "理论学习/MIT/ch04共识协议.md",
+    "理论学习/共学/week 1.md",
+    "理论学习/共学/herstory.md",
+    "资源/参考/区块链技术与应用.md",
+    "理论学习/共学",
+    "资源/web3资源.md",
+    "dApp前端学习/技术栈.md",
+    "理论学习/游戏学习Soildity.md",
+    "资源/基础知识预备.md",
+    "资源/加入DAO.md",
+    "资源/持有代币.md",
     "理论学习/MIT/ch02货币、分类账和比特币.md",
-    "理论学习/MIT/附件/{C467AD0E-E571-4A54-B6FA-9023CC2FE900}.png",
+    "理论学习/MIT/ch04共识协议.md",
+    "理论学习/MIT/ch03区块链基础与密码学.md",
+    "理论学习/MIT/附件/Pasted image 20251015111621.png",
+    "理论学习/MIT/ch05.md",
+    "理论学习/北大区块链/04-btc-协议.md",
+    "理论学习/北大区块链/03-btc-数据结构.md",
+    "理论学习/北大区块链/参考资料.md",
+    "理论学习/北大区块链/附件/区块链技术与应用Notes.pdf",
+    "理论学习/北大区块链/附件",
+    "资源/参考",
+    "理论学习/MIT/参考.md",
+    "README.md",
     "理论学习/devpill-学习.md",
-    "资源/github web3资源.md",
+    "git上传.md",
+    "理论学习/MIT/ch01.md",
+    "资源/学习路径推荐.md",
+    "理论学习/MIT/附件/{C467AD0E-E571-4A54-B6FA-9023CC2FE900}.png",
     "理论学习/MIT/附件/{DB2D6DFE-20BA-416E-9739-050465A2B4AD}.png",
     "理论学习/MIT/附件",
     "{DB2D6DFE-20BA-416E-9739-050465A2B4AD} 2.png",
     "{DB2D6DFE-20BA-416E-9739-050465A2B4AD}.png",
     "{DB2D6DFE-20BA-416E-9739-050465A2B4AD} 1.png",
     "课程简介.png",
-    "资源/基础知识预备.md",
-    "资源/学习路径推荐.md",
     "Pasted image 20251009163831.png",
     "理论学习/北大区块链",
-    "dApp前端学习/技术栈.md",
     "dApp前端学习",
     "新建 文本文档.txt",
     "欢迎.md",
     "理论学习/基本术语.md",
     "{3EC1EA53-0826-4921-82E1-6A3E9364280B}.png",
     "{D5E08915-F064-42A8-91EC-C2A22DB3207F}.png",
-    "{2D9893F8-51BB-4F1C-82D3-608DCB503201}.png",
     "理论学习/MIT",
     "资源/基础知识",
-    "理论学习/devpill/区块链开发.md",
-    "理论学习/devpill",
-    "理论学习",
-    "资源"
+    "理论学习/devpill/区块链开发.md"
   ]
 }
