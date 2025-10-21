@@ -101,7 +101,7 @@ uint256 public counter;
 
 #### 函数修饰符
 
-- **`view`**：表示该函数不会修改合约的状态变量，只能读取状态变量，不会消耗 gas。
+- **`view`**：表示该函数不会修改合约的状态变量，只能读取状态变量，==不会消耗 gas==。
     
 - **`pure`**：表示该函数不会读取或修改合约的任何状态变量。`pure` 函数完全依赖于输入参数进行计算，不与合约的状态交互，因此它不会消耗 gas。
     
@@ -118,3 +118,40 @@ Solidity 中的 **可见性修饰符** 用来控制合约中变量和函数的�
 - **`internal`**：内部的，表示该函数或变量只能在当前合约或其子合约中访问。这是一个常用的修饰符，用于控制继承和子合约的访问权限。
     
 - **`external`**：外部的，表示该函数只能通过合约外部调用。通常用于接口函数或其他合约的调用。
+
+
+## Day 2
+
+
+需求：
+![[Pasted image 20251021162016.png]]
+
+约定俗称的命名：
+局部变量和私有函数命名前面加_
+
+**存储类型**：
+**Storage** (存储）:==永久==存储在区块链上的数据（例如姓名和简介）。
+
+**Memory** （内存）:仅在函数运行时存在的==临时==存储空间。
+	eg. string memory _ name
+
+注意：
+组合功能可以使<mark style="background: #FFF3A3A6;">合约更短</mark>，但如果操作不当，也会<mark style="background: #FFF3A3A6;">增加 gas 成本</mark>。
+
+eg
+```solidity
+function saveAndRetrieve(string memory _name, string memory _bio) public returns (string memory, string memory) {
+    name = _name;
+    bio = _bio;
+    return (name, bio);
+}
+```
+![[Pasted image 20251021164628.png]]
+
+疑问：为何会出现infinite gas
+transact和call的区别是什么？
+gas是如何计算的？
+#### gas的计算
+
+
+

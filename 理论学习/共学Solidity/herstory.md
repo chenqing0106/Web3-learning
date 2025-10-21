@@ -25,8 +25,7 @@ https://mp.weixin.qq.com/s/2_EfySfAgLz2E5CGaHE12g
 [每日挑战](https://0xherstory.notion.site/28e0642126888002b26be4b2e9841ce0?v=28e064212688803abb44000c9f9129e7)
 [每日测试](https://hersolidityin30days.lovable.app/)
 
-所用编辑器：REMIX
-使用教程：[官方文档](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.30+commit.73712a01.js)
+
 
 [答疑](https://0xherstory.notion.site/2910642126888046a897d75705d86a58?v=291064212688808e81d0000c1e304f45)
 [代码提交教程](https://0xherstory.notion.site/How-to-use-Github-during-our-30days-learning-20306421268880449352d7a8902be3de)

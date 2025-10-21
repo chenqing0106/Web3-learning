@@ -2,7 +2,7 @@ https://github.com/Dapp-Learning-DAO/Dapp-Learning/blob/main/README-CN.md
 
 邝砾老师推荐：[中山大学-郑子彬](https://inpluslab.com/)
 
-[游戏学习](https://cryptozombies.io/zh/lesson/)
+[游戏学习](https://cryptozombies.io/zh/lesson/)  :  [[游戏学习Solidity]]
 
 ## 序 - Preface
 
