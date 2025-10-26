@@ -6,6 +6,15 @@ https://www.notion.so/0xherstory/291064212688800cbc8df13ea1ec5502?source=copy_li
 
 🪐导师：@Bala🌍  + Sneha（on TG）
 
+## 直播
+
+mapping（）
+和直接赋值的差别
+	一个是映射“规则”
+	一个是在映射中查找值
+
+不熟悉的函数去官方网站查询了解：
+https://www.soliditylang.org/
 ## Day 1
 
 ### **（1）SPDX许可证标识符**
@@ -338,5 +347,29 @@ Solidity 编译器无法识别中文字符。在 Solidity 中，如果你要使�
 - **继承时要显式调用父构造函数**
 
 ## Day 5
+### 代码
+
+
+
+### 知识点
+#### 修饰符（modifiers）
 
 ## Day 6
+### 代码
+用户要分为注册和未注册？
+require(members[msg.sender],"Only members can perform this action");]);
+不可以直接这样吗？是不是更简单一些？
+
+address(0)和0的区别
+### 知识点
+#### payable
+
+## Day 7
+### 代码
+### 知识点
+#### 嵌套映射
+
+
+- [ ] 完成基础的6、7；将知识点标题写好（后面再结合代码详细）；将代码问题准备好；
+- [ ] 再pr上去
+- [ ] 最后有时间再优化

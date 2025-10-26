@@ -4,6 +4,8 @@ https://github.com/Dapp-Learning-DAO/Dapp-Learning/blob/main/README-CN.md
 
 [游戏学习](https://cryptozombies.io/zh/lesson/)  :  [[游戏学习Solidity]]
 
+官方网站：
+https://www.soliditylang.org/
 ## 序 - Preface
 
 [](https://github.com/Dapp-Learning-DAO/Dapp-Learning/blob/main/README-CN.md#%E5%BA%8F---preface)
