@@ -1,13 +1,17 @@
 ## 相关
 
+有些文档无法编辑（or登录后跳转主页）
+	换一个浏览器即可解决
+
 [考勤表](https://docs.qq.com/sheet/DZVptVUtmV01rT2Za?_t=1760920167505&nlc=1&u=f2f7b0ab45e84943ad8bb5c66337eece)
 [每日挑战](https://0xherstory.notion.site/28e0642126888002b26be4b2e9841ce0?v=28e064212688803abb44000c9f9129e7)
 [每日测试](https://hersolidityin30days.lovable.app/)
 
-
+浏览器进不去编辑界面就走这里打开本地的notion：[https://www.notion.so/0xherstory/7209a9486e5a48a58eba16c73120732b](https://www.notion.so/0xherstory/7209a9486e5a48a58eba16c73120732b)
 
 [答疑](https://0xherstory.notion.site/2910642126888046a897d75705d86a58?v=291064212688808e81d0000c1e304f45)
 [代码提交教程](https://0xherstory.notion.site/How-to-use-Github-during-our-30days-learning-20306421268880449352d7a8902be3de)
+	同一个分支下，没被接收前只用pr一次，后续push到自己仓库中时，会同步追加到那个pr上；
 [youtube课程](https://www.youtube.com/@TheWeb3Compass)
 
 1. 全勤条件：
